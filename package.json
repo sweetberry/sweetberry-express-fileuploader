@@ -2,9 +2,13 @@
   "name": "sweetberry-express-fileuploader",
   "version": "0.0.1",
   "description": "",
-  "private": true,
   "scripts": {
     "start": "node ./bin/www"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sweetberry/sweetberry-express-fileuploader.git"
   },
   "engine": {
     "node": ">= 0.12.x",
